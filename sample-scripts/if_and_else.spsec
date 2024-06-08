@@ -1,0 +1,12 @@
+let num1 1
+let num2 1
+let num3 5
+let num4 4
+let cmd1 spiral sout one
+let cmd2 spiral sout two
+
+spiral if $num1 == $num2 $cmd1
+spiral else $cmd2
+
+spiral if $num3 < $num4 $cmd1
+spiral else $cmd2

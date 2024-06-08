@@ -1,0 +1,3 @@
+let a http://example.com
+
+spiral http_header $a
